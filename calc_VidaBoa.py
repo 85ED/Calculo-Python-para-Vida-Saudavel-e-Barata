@@ -1,6 +1,5 @@
 print("Olá queremos te ajudar a viver mais e gastar menos, responda o questionário abaixo!")
 tempo = float(input("Há quantos anos você fuma?: "))
-print('Dado invalido, preencha novamente')
 customaco = float(input("Me informe quanto custa um maço de cigarros em reais: R$ "))
 volumedia = float(input("Quantos maços de cigarros você fuma por dia?: "))
 
